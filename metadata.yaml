@@ -1,0 +1,49 @@
+_repo: Les-quatre-livres-de-philosophie-morale-et-politique-de-la-Chine_44958
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pauthier, G. (Guillaume)
+    aliases:
+    - Pauthier, Guillaume
+    - Pauthier, Jean-Pierre-Guillaume
+    birthdate: 1801
+    deathdate: 1873
+    gutenberg_agent_id: '42794'
+    url: http://www.gutenberg.org/2009/agents/42794
+covers:
+- cover_type: archival
+  image_path: 44958-h/images/conf_cover.jpg
+creator:
+  authors:
+  - agent_name: Confucius
+    alias: 孔子
+    birthdate: -551
+    deathdate: -479
+    gutenberg_agent_id: '1180'
+    url: http://www.gutenberg.org/2009/agents/1180
+    wikipedia: http://en.wikipedia.org/wiki/Confucius
+  - agent_name: Mencius
+    aliases:
+    - 孟子
+    - Mengzi
+    birthdate: -385
+    deathdate: -289
+    gutenberg_agent_id: '7977'
+    url: http://www.gutenberg.org/2009/agents/7977
+    wikipedia: http://en.wikipedia.org/wiki/Mencius
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2014-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44958'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confucian ethics'
+- !lcc 'BJ'
+- !lcsh 'China -- Politics and government'
+title: Les quatre livres de philosophie morale et politique de la Chine
+url: http://www.gutenberg.org/ebooks/44958
